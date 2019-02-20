@@ -37,4 +37,5 @@ sysinfo.txt
 .idea*
 Assets/Plugins/Editor/JetBrains*
 
+Logs/*
 
